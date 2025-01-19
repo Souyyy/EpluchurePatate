@@ -20,7 +20,9 @@ Fonctionnalités personnelles ajoutées
 - Ajout des premiers lundi de chaque semaine en fonction de l'année exemple (06/01/2025, ...) propre a chaque année
 
 Fonctionnalités non développées
+
 À ce jour, toutes les fonctionnalités demandées dans le cahier des charges ont été développées.
+
 
 Il  me semble qu'il n'y a pas de bug reelement present, cependant j'ai eu pas mal de difficulté lors de la conception avec MongoDB, surtout des
 problème de Driver avec MongoDB, le code ne reconnaissait pas la library mongo, c'est pour cela que j'ai eu des difficulté et j'ai du contourné
