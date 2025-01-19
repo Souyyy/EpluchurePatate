@@ -1,0 +1,456 @@
+[{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338d4"
+  },
+  "year": 2025,
+  "NumWeek": 1,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338d5"
+  },
+  "NumWeek": 2,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338d6"
+  },
+  "NumWeek": 3,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338d7"
+  },
+  "NumWeek": 4,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338d8"
+  },
+  "year": 2025,
+  "NumWeek": 6,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338d9"
+  },
+  "NumWeek": 7,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338da"
+  },
+  "NumWeek": 8,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338db"
+  },
+  "NumWeek": 9,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338dc"
+  },
+  "NumWeek": 10,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338dd"
+  },
+  "NumWeek": 11,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338de"
+  },
+  "NumWeek": 13,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338df"
+  },
+  "NumWeek": 14,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e0"
+  },
+  "NumWeek": 15,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e1"
+  },
+  "NumWeek": 16,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e2"
+  },
+  "NumWeek": 17,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e3"
+  },
+  "NumWeek": 18,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e4"
+  },
+  "NumWeek": 19,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e5"
+  },
+  "NumWeek": 20,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e6"
+  },
+  "NumWeek": 21,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e7"
+  },
+  "NumWeek": 22,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e8"
+  },
+  "year": 2025,
+  "NumWeek": 23,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338e9"
+  },
+  "NumWeek": 24,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338ea"
+  },
+  "NumWeek": 25,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338eb"
+  },
+  "NumWeek": 26,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338ec"
+  },
+  "NumWeek": 27,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338ed"
+  },
+  "NumWeek": 28,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338ee"
+  },
+  "NumWeek": 29,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338ef"
+  },
+  "NumWeek": 30,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338f0"
+  },
+  "NumWeek": 31,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338f1"
+  },
+  "year": 2025,
+  "NumWeek": 32,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338f2"
+  },
+  "NumWeek": 33,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338f3"
+  },
+  "NumWeek": 35,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338f4"
+  },
+  "year": 2025,
+  "NumWeek": 36,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9ca11e3b89927338f5"
+  },
+  "NumWeek": 38,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338f6"
+  },
+  "year": 2025,
+  "NumWeek": 39,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338f7"
+  },
+  "year": 2025,
+  "NumWeek": 40,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338f8"
+  },
+  "NumWeek": 41,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338f9"
+  },
+  "NumWeek": 42,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338fa"
+  },
+  "year": 2025,
+  "NumWeek": 43,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338fb"
+  },
+  "NumWeek": 44,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338fc"
+  },
+  "year": 2025,
+  "NumWeek": 45,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338fd"
+  },
+  "year": 2025,
+  "NumWeek": 46,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338fe"
+  },
+  "NumWeek": 47,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b89927338ff"
+  },
+  "NumWeek": 48,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b8992733900"
+  },
+  "NumWeek": 49,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b8992733901"
+  },
+  "NumWeek": 50,
+  "year": 2025,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b8992733902"
+  },
+  "NumWeek": 51,
+  "year": 2025,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7a9da11e3b8992733903"
+  },
+  "NumWeek": 52,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7ac1a11e3b8992733904"
+  },
+  "NumWeek": 1,
+  "year": 2026,
+  "users_id": "678d786cadb83e6118014b65"
+},
+{
+  "_id": {
+    "$oid": "678d7ac1a11e3b8992733905"
+  },
+  "year": 2026,
+  "NumWeek": 6,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7ac1a11e3b8992733906"
+  },
+  "NumWeek": 10,
+  "year": 2026,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7ac1a11e3b8992733907"
+  },
+  "NumWeek": 13,
+  "year": 2026,
+  "users_id": "678d7851adb83e6118014b64"
+},
+{
+  "_id": {
+    "$oid": "678d7ac1a11e3b8992733908"
+  },
+  "NumWeek": 18,
+  "year": 2026,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7daba11e3b8992733909"
+  },
+  "NumWeek": 5,
+  "year": 2025,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7daba11e3b899273390a"
+  },
+  "year": 2025,
+  "NumWeek": 12,
+  "users_id": "678d7883adb83e6118014b66"
+},
+{
+  "_id": {
+    "$oid": "678d7daca11e3b899273390b"
+  },
+  "NumWeek": 34,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+},
+{
+  "_id": {
+    "$oid": "678d7daca11e3b899273390c"
+  },
+  "NumWeek": 37,
+  "year": 2025,
+  "users_id": "678d79fc764fb087ab021406"
+}]
